@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["noprefetch-Hiragana-bcmap"],{"0092":function(A,c,n){"use strict";n.r(c),function(A){c["default"]=A.from("AuBSQ29weXJpZ2h0IDE5OTAtMjAwOSBBZG9iZSBTeXN0ZW1zIEluY29ycG9yYXRlZC4KQWxsIHJpZ2h0cyByZXNlcnZlZC4KU2VlIC4vTElDRU5TRQABAIF/YAggAIQDAASCRwAJhAQAAIJWACyEDgABgwQAAoQ7AxiEPg==","base64")}.call(this,n("b639").Buffer)}}]);
+//# sourceMappingURL=noprefetch-Hiragana-bcmap.14accf90.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["noprefetch-Katakana-bcmap"],{2490:function(c,n,a){"use strict";a.r(n),function(c){n["default"]=c.from("AuBSQ29weXJpZ2h0IDE5OTAtMjAwOSBBZG9iZSBTeXN0ZW1zIEluY29ycG9yYXRlZC4KQWxsIHJpZ2h0cyByZXNlcnZlZC4KU2VlIC4vTElDRU5TRQABAIF/YAIgP4JGAB6DBw==","base64")}.call(this,a("b639").Buffer)}}]);
+//# sourceMappingURL=noprefetch-Katakana-bcmap.a95a84d0.js.map
