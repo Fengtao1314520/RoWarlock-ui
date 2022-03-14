@@ -1,0 +1,115 @@
+@import '~bulma/sass/utilities/functions';
+@import '~bulma/sass/utilities/derived-variables';
+$cred-1: #ff8585;
+$cred-2: #ff577f;
+$cpink-1: #fbe8e7;
+$cpink-2: #f7ddde;
+$cpink-3: #ffc4d0;
+$cpurple-1: #b81fdf;
+$cblue-1: #98acf8;
+$cblue-2: #176dde;
+$cblue-3: #0480fc;
+$cblue-4: #1cacf4;
+$cgreen-1: #04e474;
+$cgreen-2: #ccfcd4;
+$cgreen-3: #01d28e;
+$cgreen-4: #16c79a;
+$cyellow-1: #fadcaa;
+$cyellow-2: #fcf5ee;
+$cwhite-1: #f4f4f4;
+$cwhite-2: #fafafa;
+$cgray-1: #bcbcbb;
+$cgray-2: #dcdcdc;
+$cblack-1: #1c1c24;
+$cblack-2: #3f3f44;
+$addcolors: (
+  'cred-1': (
+    $cred-1,
+    $cwhite-1
+  ),
+  'cred-2': (
+    $cred-2,
+    $cwhite-1
+  ),
+  'cpink-1': (
+    $cpink-1,
+    $black-ter
+  ),
+  'cpink-2': (
+    $cpink-2,
+    $black-ter
+  ),
+  'cpink-3': (
+    $cpink-3,
+    $black-ter
+  ),
+  'cpurple-1': (
+    $cpurple-1,
+    $cwhite-1
+  ),
+  'cblue-1': (
+    $cblue-1,
+    $cwhite-1
+  ),
+  'cblue-2': (
+    $cblue-2,
+    $cwhite-1
+  ),
+  'cblue-3': (
+    $cblue-3,
+    $cwhite-1
+  ),
+  'cblue-4': (
+    $cblue-4,
+    $cwhite-1
+  ),
+  'cgreen-1': (
+    $cgreen-1,
+    $cwhite-1
+  ),
+  'cgreen-2': (
+    $cgreen-2,
+    $black-ter
+  ),
+  'cgreen-3': (
+    $cgreen-3,
+    $cwhite-1
+  ),
+  'cgreen-4': (
+    $cgreen-4,
+    $cwhite-1
+  ),
+  'cyellow-1': (
+    $cyellow-1,
+    $black-ter
+  ),
+  'cyellow-2': (
+    $cyellow-2,
+    $black-ter
+  ),
+  'cgray-1': (
+    $cgray-1,
+    $black-ter
+  ),
+  'cgray-2': (
+    $cgray-2,
+    $black-ter
+  ),
+  'cwhite-1': (
+    $cwhite-1,
+    $black-ter
+  ),
+  'cwhite-2': (
+    $cwhite-2,
+    $black-ter
+  ),
+  'cblack-1': (
+    $cblack-1,
+    $cwhite-1
+  ),
+  'cblack-2': (
+    $cblack-2,
+    $cwhite-1
+  )
+);
+$colors: mergeColorMaps($addcolors, $colors);

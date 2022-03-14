@@ -1,0 +1,9 @@
+.is-tiles-wrapper {
+  margin-bottom: $default-padding;
+}
+
+.tile {
+  &.is-child {
+    margin: 0.5rem !important;
+  }
+}
