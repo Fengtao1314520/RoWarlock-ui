@@ -25,6 +25,21 @@
             <v-spacer />
           </v-row>
         </v-alert>
+        <v-alert
+          v-else
+          dark
+          outlined
+          color="purple"
+          class="rounded-l-xl"
+        >
+          <v-row>
+            <v-icon color="purple" class="ml-2 mt-n1">mdi-folder-marker-outline</v-icon>
+            <v-col>
+              {{ child.name }}
+            </v-col>
+            <v-spacer />
+          </v-row>
+        </v-alert>
       </div>
     </v-card-text>
   </v-card>
